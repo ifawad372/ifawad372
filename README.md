@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fawad Iqbal</h1>
 <h3 align="center">A passionate front-end developer from Pakistan, specialised in web designing, Front-end Developing and have 10+ Responsive websites.</h3>
-<img align="right" alt="Coding" width="400" src="![Uploading Programming coding background.jpeg…]()
+<img align="right" alt="Coding" width="400" src=""C:\Users\nufal\Downloads\Programming coding background.jpeg"
 ">
 
 - 🔭 I’m currently working on [PickBazar]( https://capstone-2-red.vercel.app/)
