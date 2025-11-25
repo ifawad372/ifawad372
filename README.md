@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fawad Iqbal</h1>
 <h3 align="center">A passionate front-end developer from Pakistan, specialised in web designing, Front-end Developing and have 10+ Responsive websites.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gifimgurl=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2F6a415a70-1188-11ee-be8b-0385ff492bc8%2FqlIb5hr0jR.gifimgrefurl=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fcoding-vmN4KyUBhodocid=tKoTZZOleOtNgMtbnid=XUs0_QoU0dizeM&vet=12ahUKEwizudD3vYqRAxVuU6QEHcorNTM4ChAzegQIYxAA..iw=640h=640hcb=2ved=2ahUKEwizudD3vYqRAxVuU6QEHcorNTM4ChAzegQIYxAA">
+<img align="right" alt="Coding" width="400" src="![Uploading Programming coding background.jpeg…]()
+">
 
 - 🔭 I’m currently working on [PickBazar]( https://capstone-2-red.vercel.app/)
 
